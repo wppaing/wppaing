@@ -6,7 +6,7 @@ Web developer based in Myanmar.
 
 [![Linkedin Badge](https://img.shields.io/badge/-wintphyopaing-0B66C3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wintphyopaing/)](https://www.linkedin.com/in/wintphyopaing/)
 [![Twitter Badge](https://img.shields.io/badge/-@wintphyopaing-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wintphyopaing)
-[![Gmail Badge](https://img.shields.io/badge/-wintphyopaing.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wintphyopaing.dev@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wintphyopaing.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wintphyopaing.dev@gmail.com)](mailto:wintphyopaing.dev@gmail.com)
 
 - 🔭 I’m currently working as front-end developer
 - 🌱 I’m currently learning React Native
