@@ -1,5 +1,8 @@
 ## Hi there, I am Wint Phyo Paing :wave:
+
 Web developer based in Myanmar.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-wintphyopaing-0B66C3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wintphyopaing/)](https://www.linkedin.com/in/wintphyopaing/)
 [![Twitter Badge](https://img.shields.io/badge/-@wintphyopaing-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/wintphyopaing)
@@ -7,8 +10,8 @@ Web developer based in Myanmar.
 
 - 🔭 I’m currently working as front-end developer
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about React, Next.js
-- ⚡ Fun fact: I'm sout chaw gyi :sunglasses:
+- 💬 Ask me about **React, Next.js, Expressjs, MongoDB, Firebase**
+- ⚡ Fun fact: I never kissed my face :sob:
 
 
 ## Languages and Tools:
@@ -18,10 +21,12 @@ Web developer based in Myanmar.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-%23282C34?style=flat-square&logo=next.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
@@ -32,3 +37,5 @@ Web developer based in Myanmar.
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+
+![](https://komarev.com/ghpvc/?username=wppaing)
