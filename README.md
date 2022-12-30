@@ -9,7 +9,7 @@ Web developer based in Myanmar.
 [![Gmail Badge](https://img.shields.io/badge/-wintphyopaing.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wintphyopaing.dev@gmail.com)](mailto:wintphyopaing.dev@gmail.com)
 
 - 🔭 I’m currently working as front-end developer
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning in depth web development
 - 💬 Ask me about **React, Next.js, Expressjs, MongoDB, Firebase**
 - ⚡ Fun fact: I never kissed my face :sob:
 
