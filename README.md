@@ -1,6 +1,6 @@
 ## Hi there, I am Wint Phyo Paing :wave:
 
-Web developer based in Myanmar.
+Web developer based in Yangon.
 
 
 
