@@ -6,11 +6,4 @@
 
 - ⚡ Fun fact: I never kissed my face :sob:
 
-
-## Languages and Tools:
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-
 ![](https://komarev.com/ghpvc/?username=wppaing)
